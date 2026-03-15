@@ -9,6 +9,9 @@ Bu klasör, decompiler ile bozulan modüllerin temizlenmiş sürümlerini içeri
   - `RemoteEvents.lua`
   - `TakimKurallari.lua`
   - `spring.lua`
+  - `Skins.lua`
+  - `SkinService.lua`
+  - `Velocity/Velocity.lua`
 - `ServerScriptService/SilahTA`
   - `BanService.lua`
   - `WeaponServer.server.lua`
